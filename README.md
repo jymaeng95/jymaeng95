@@ -10,7 +10,7 @@
 
 ✏️ **Traveler (Jeju-Island Travel Planner Web Application Using Spring Framework) - 2020.03.24 - 2020.11.24**
 
-🏅 **2020 창의적 종합설계 경진대회 대상(Hanshin Univ. Capston Design Competition 1st Prize, 2020.11.24)**   
+🏅 **제12회 창의적 종합설계 경진대회 대상(12th Hanshin Univ. Capston Design Competition 1st Prize, 2020.11.30)**  
 
 ---
 <a href="https://github.com/jymaeng95/github-readme-stats">
