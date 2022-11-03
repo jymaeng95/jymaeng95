@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   
 ### 🔗 About Me.
-<a href="zayson.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://zayson.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <a href="https://www.instagram.com/__zayson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
