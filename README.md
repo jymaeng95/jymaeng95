@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=38E54D&height=300&section=header&text=Zayson%20🪴&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=38E54D&height=300&section=header&text=Zayson🪴&fontSize=90)
 
 <div align="center">
 
